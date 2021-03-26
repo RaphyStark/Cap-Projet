@@ -1,14 +1,14 @@
-# Light-Painting-with-a-Robot-
+# Light Painting with a Robot
 
 Les livrables :
 
-- Les codes
-  - codes de base (fonctions d'asservissement et autre)
-  - codes de base avec la liste des consignes pour réaliser une figure
-  - Les photos et vidéos
+Les codes
+  => codes de base (fonctions d'asservissement et autre)
+  => codes de base avec la liste des consignes pour réaliser une figure
+  => Les photos et vidéos
 
-- Les simulations
-  - Un fichier Excel accompagné de graphs : recueil de valeurs expérimentales ayant permis de trouver les coefficients du correspond proportionnel et dérivé (correcteur intégral inutile puisqu’il n’y a pas d’erreur statique).
+Les simulations
+=> Un fichier Excel accompagné de graphs : recueil de valeurs expérimentales ayant permis de trouver les coefficients du correspond proportionnel et dérivé (correcteur intégral inutile puisqu’il n’y a pas d’erreur statique).
 
 
 
@@ -31,8 +31,9 @@ Si vous souhaitez ouvrir le code d'une forme particulière, télécharger le fic
 Il y a 5 figures déjà designées :
 - La Pokeball
 - La Mandala
+- Le E
 - La Spirale
-- Le Carré
+- La bordure
 - Le Nuage
 
 
