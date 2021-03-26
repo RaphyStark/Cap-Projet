@@ -1,4 +1,4 @@
-Liens YouTube :
+Liens YouTube des Light Painting en LIVE :
 
 TRIANGLE :    https://youtu.be/piklfF_aT6k
 
