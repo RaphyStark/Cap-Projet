@@ -29,15 +29,16 @@ Pour cela il faut télécharger le répertoire Arduino et copier les deux dossie
 Si vous souhaitez ouvrir le code d'une forme particulière, télécharger le fichier du répertoire correspondant à la forme
 
 Il y a 5 figures déjà designées :
-- La Pokeball
-- La Mandala
-- Le E
-- La Spirale
-- La bordure
-- Le Nuage
+- Pokeball
+- Mandala
+- E majuscule
+- esiea minuscule
+- Spirale
+- Bordure
+- Nuage
 
 
  contient deux codes : 
   - xxx.ino   pour le moteur pas à pas
-  - base.ino  pour le moteur à courant continu
+  - CC.ino  pour le moteur à courant continu
   
